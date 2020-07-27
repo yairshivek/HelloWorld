@@ -1,0 +1,13 @@
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\bin\Debug\netcoreapp3.1\HelloVSCode.exe
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\bin\Debug\netcoreapp3.1\HelloVSCode.deps.json
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\bin\Debug\netcoreapp3.1\HelloVSCode.runtimeconfig.json
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\bin\Debug\netcoreapp3.1\HelloVSCode.runtimeconfig.dev.json
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\bin\Debug\netcoreapp3.1\HelloVSCode.dll
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\bin\Debug\netcoreapp3.1\HelloVSCode.pdb
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\obj\Debug\netcoreapp3.1\HelloVSCode.csprojAssemblyReference.cache
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\obj\Debug\netcoreapp3.1\HelloVSCode.AssemblyInfoInputs.cache
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\obj\Debug\netcoreapp3.1\HelloVSCode.AssemblyInfo.cs
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\obj\Debug\netcoreapp3.1\HelloVSCode.csproj.CoreCompileInputs.cache
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\obj\Debug\netcoreapp3.1\HelloVSCode.dll
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\obj\Debug\netcoreapp3.1\HelloVSCode.pdb
+C:\works\jbt\microfocus\CLASS-20200727\HelloVSCode\obj\Debug\netcoreapp3.1\HelloVSCode.genruntimeconfig.cache
